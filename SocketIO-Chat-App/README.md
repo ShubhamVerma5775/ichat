@@ -1,7 +1,6 @@
 ## Welcome to Private and Public Chat Socket.IO App by Shubham Verma ##
 
 ### Socket.IO Real-Time Chat with Auto Reply ### 
-   July, 2018 
 
 ### Prerequisites: ###
   
