@@ -1,4 +1,4 @@
-## Welcome to Private and Public Chat Socket.IO App by Wilbert Muza ##
+## Welcome to Private and Public Chat Socket.IO App by Shubham Verma ##
 
 ### Socket.IO Real-Time Chat with Auto Reply ### 
    July, 2018 
@@ -18,7 +18,7 @@ Make sure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.co
 1. Clone or Download the repository
 
 	```
-	$ git clone https://github.com/wmuza/SocketIO-Chat-App.git
+	$ git clone https://github.com/ShubhamVerma5775/SocketIO-Chat-App.git
 	$ cd SocketIO-Chat-App
 	```
 2. Install Dependencies
